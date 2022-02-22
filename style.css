@@ -1,0 +1,22 @@
+html {
+    background-color: #191919;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3 {
+    margin-left: 20px ;
+}
+
+figure {
+    align-items: center;
+}
+.logo {
+    margin-left: 300px;
+}
